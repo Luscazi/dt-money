@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-10-17T00:35:13.785Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-10-17T00:35:13.785Z"
+    },
+    {
+      "description": "Espetinho",
+      "price": 18,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-10-17T03:32:56.526Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte",
+      "price": 2,
+      "category": "Alimen",
+      "type": "income",
+      "createdAt": "2023-10-17T03:59:13.708Z",
+      "id": 5
+    },
+    {
+      "description": "Pre treino",
+      "price": 160,
+      "category": "Gym",
+      "type": "outcome",
+      "createdAt": "2023-10-17T04:38:31.632Z",
+      "id": 6
+    }
+  ]
+}
